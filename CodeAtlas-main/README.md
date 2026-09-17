@@ -32,7 +32,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/anurag2787/CodeAtlas
+git clone https://github.com/Ashish304544/code-atlas
 cd CodeAtlas
 
 # Set up environment variables
