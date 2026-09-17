@@ -30,7 +30,7 @@ cp .env.example .env
 # Edit .env with your configuration
 Environment Variables
 Frontend (.env)
-VITE_API_BASE_URL=http://localhost:3000
+VITE_API_BASE_URL=http://localhost:5173/
 Backend (.env)
 GEMINI_API_KEY=your_gemini_api_key
 Project Structure
