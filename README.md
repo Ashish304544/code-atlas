@@ -22,7 +22,7 @@ Bun (or Node.js)
 Gemini API key
 Installation
 # Clone the repository
-git clone 
+git clone https://github.com/Ashish304544/code-atlas
 cd CodeAtlas
 
 # Set up environment variables
